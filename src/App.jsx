@@ -1,0 +1,14 @@
+import './style/App.css'
+import './style/todo.css'
+import ToDo from './components/ToDo'
+
+function App() {
+
+  return (
+    <>
+      <ToDo />
+    </>
+  )
+}
+
+export default App

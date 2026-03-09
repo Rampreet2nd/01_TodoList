@@ -1,0 +1,13 @@
+.con{
+    width: 700px;
+    margin-top: 60px;
+}
+
+.table{
+    margin-top: 20px;
+}
+
+#id{
+    width: 100px;
+    display: none;
+}
